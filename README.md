@@ -1,6 +1,6 @@
 # Hi, I'm Shivansh 👋
 
-Full-stack developer and B.Tech student from India. I build real-time web apps and AI-powered tools, mostly with JavaScript and TypeScript.
+AI Engineer at [Aarvi Nexus AI](https://aarvinexusai.com) and B.Tech student from India. I build real-time web apps and AI-powered tools, mostly with JavaScript and TypeScript.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://cinematic-portfolio-main-one.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NSAyMC40NWgtMy41NnYtNS41N2MwLTEuMzMtLjAzLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjEzIDEuNDUtMi4xMyAyLjk0djUuNjdIOS4zNVY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMiAyLjA2IDIuMDYgMCAwIDEgMCA0LjEyek03LjExIDIwLjQ1SDMuNTZWOWgzLjU1djExLjQ1eiIvPjwvc3ZnPg==)](https://www.linkedin.com/in/shivanshrathor/)
@@ -14,6 +14,22 @@ Full-stack developer and B.Tech student from India. I build real-time web apps a
 - 🤝 Open to collaborating on open source MERN projects and system design problems
 - 💬 Ask me about real-time apps, or my time as Technical Head at AlgoZenith
 - ⚡ Fun fact: I can probably suggest a better outfit for a Darshan Raval concert than for a formal interview
+
+## Work
+
+### AI Engineer · [Aarvi Nexus AI](https://aarvinexusai.com)
+
+| Project | What it does | Built with |
+| --- | --- | --- |
+| [**Duis**](https://github.com/aarvinexusai01/Duis-store) · [live](https://theduis.com) | Men's fashion store with its own storefront, admin portal and CMS in one self-hosted app | Next.js, PostgreSQL, Drizzle, Razorpay, Docker |
+| **Real Estate CRM** | Captures leads from ads, website forms and webhooks, removes duplicates, scores them with AI and alerts the right sales rep, then tracks follow-ups and site visits | Next.js, MongoDB, Gemini, Upstash, Pusher |
+
+### [ProLearnEdu](https://prolearnedu.com)
+
+| Project | What it does | Built with |
+| --- | --- | --- |
+| **EduExam** · [live](https://exam.prolearnedu.com) | Online MCQ exam portal for colleges, with PDF question import, anti-cheat proctoring, instant results and institution reports | React, Express, MongoDB, Redis, BullMQ |
+| **ProLearnEdu website** · [live](https://prolearnedu.com) | Company website for a service that sources and deploys verified trainers for corporates and institutions | |
 
 ## Featured projects
 
@@ -54,6 +70,7 @@ Full-stack developer and B.Tech student from India. I build real-time web apps a
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 **AI and tools**
