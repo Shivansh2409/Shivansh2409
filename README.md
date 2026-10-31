@@ -1,7 +1,10 @@
 # Hi, I'm Shivansh 👋
 
-AI Engineer at [Aarvi Nexus AI](https://aarvinexusai.com) and B.Tech student from India. I build real-time web apps and AI-powered tools, mostly with JavaScript and TypeScript.
+AI Engineer at [Aarvi Nexus AI](https://aarvinexusai.com) and final-year B.Tech IT student in Lucknow. I build real-time web apps and AI-powered tools, mostly with JavaScript and TypeScript.
 
+📖 **[Read my story: how I learned to build](https://my-story-swart.vercel.app/)**
+
+[![My Story](https://img.shields.io/badge/My_Story-7C3AED?style=flat)](https://my-story-swart.vercel.app/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://cinematic-portfolio-main-one.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NSAyMC40NWgtMy41NnYtNS41N2MwLTEuMzMtLjAzLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjEzIDEuNDUtMi4xMyAyLjk0djUuNjdIOS4zNVY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMiAyLjA2IDIuMDYgMCAwIDEgMCA0LjEyek03LjExIDIwLjQ1SDMuNTZWOWgzLjU1djExLjQ1eiIvPjwvc3ZnPg==)](https://www.linkedin.com/in/shivanshrathor/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shivanshrathore61@gmail.com)
